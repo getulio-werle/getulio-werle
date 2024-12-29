@@ -14,6 +14,6 @@ Sou **Getúlio Werle**, tenho 21 anos, Desenvolvedor Web e graduado em Sistemas 
 ## Estatísticas 📊
 
 <div>
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=getulio-werle&show_icons=true&theme=dracula" alt="">
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getulio-werle&theme=dracula">
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=getulio-werle&show_icons=true&theme=dracula" alt="Stats">
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getulio-werle&theme=dracula" alt="Top langs">
 </div>
