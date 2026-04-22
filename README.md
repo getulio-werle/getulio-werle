@@ -1,6 +1,6 @@
 ## Olá, mundo! 👋
 
-Sou **Getúlio Werle**, tenho 21 anos, Desenvolvedor Web e graduado em Sistemas para Internet e técnico em Edificações, ambos pelo Instituto Federal de Educação, Ciência e Tecnologia de Rondônia (IFRO). Atualmente, estou estudando a linguagem PHP e o seu ecossistema.
+Sou **Getúlio Werle**, tenho 22 anos, Desenvolvedor Web e graduado em Sistemas para Internet e técnico em Edificações, ambos pelo Instituto Federal de Educação, Ciência e Tecnologia de Rondônia (IFRO). Atualmente, estou estudando a linguagem PHP e o seu ecossistema.
 
 ## Tecnologias 🧑🏻‍💻
 
